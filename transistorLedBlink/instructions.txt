@@ -1,0 +1,9 @@
+Instructions
+1. You can use any resistor values above 270Ω instead of the 330Ω resistors.
+2. You can use any resistors between 1k and 10k instead of the 10k resistors.
+3. You can use both polarized and non polarized capacitors.
+4. Changing th capacitor or the last connected resistor values will change the blink duration of the LEDs.
+5. If you use any other transistors than the BC547, then check thier pinouts and connect them according to the circuit diagrams.
+6. Go through the circuit diagrams in order. That is first you create the circuit in step1.png, then step2.png, step3.png etc....
+
+Feek free to join the Cirqtronix Telegram Community: https://t.me/+IEhX8u49TL9lNzA9
